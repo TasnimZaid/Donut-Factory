@@ -1,1 +1,2 @@
 # Donut-Factory
+## Welcome to Donut Factory, where JavaScript, HTML, and CSS create a seamless experience. Enter your data through interactive loops and explore our array of mouthwatering treats. Customize orders and track your freshly baked donuts in real-time for a delightful journey into flavor. // livecode(https://tasnimzaid.github.io/Donut-Factory/)
