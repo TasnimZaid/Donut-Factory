@@ -39,16 +39,15 @@
     flex-direction: column;
 }
 label {
-    display: block;
+    display: inline-block;
     margin-bottom: 5px;
     color: #6d4c41;
-    width: 100%;
 
 
     
 }
 
-input[type="text"] {
+input[type="text"] , input[ type = "Number"] {
     width: 100%;
 
     padding: 10px;
@@ -59,7 +58,7 @@ input[type="text"] {
 }
 
 button {
-    width: 70%;
+    width: 100%;
 
     padding: 10px 20px;
     background-color: #6d4c41;
